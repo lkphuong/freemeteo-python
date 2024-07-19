@@ -47,4 +47,4 @@
 
 ## Tác Giả
 
-Script được phát triển bởi [Tên Tác Giả], với mục đích lấy dữ liệu thời tiết từ Freemeteo và lưu trữ vào cơ sở dữ liệu.
+Script được phát triển bởi phuonglk, với mục đích lấy dữ liệu thời tiết từ Freemeteo và lưu trữ vào cơ sở dữ liệu.
